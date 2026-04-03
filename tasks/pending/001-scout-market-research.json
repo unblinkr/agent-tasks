@@ -1,0 +1,7 @@
+{
+  "channel": "scout",
+  "message": "Research Chrome extensions that handle payment splitting or multi-card checkout. Find the top 5 competitors on Chrome Web Store - get their names, ratings, number of users, pricing model, and what they do well vs poorly. Also research how checkout pages are structured on Shopify, Amazon, WooCommerce, and Stripe-powered sites - what DOM patterns do they share? Output a competitive brief with a positioning recommendation for Polypal.",
+  "project": "polypal",
+  "priority": "high",
+  "created_at": "2026-04-03T21:00:00Z"
+}

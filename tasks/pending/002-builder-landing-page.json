@@ -1,0 +1,7 @@
+{
+  "channel": "builder",
+  "message": "Review the current Polypal landing page. List what exists, what is missing, and what needs to change. We need: a clear hero section explaining payment splitting, an email waitlist capture form, a how it works section with 3 steps, and a pricing teaser. Do not rebuild from scratch - improve what is there. Report back what you find and your plan before making changes.",
+  "project": "polypal",
+  "priority": "high",
+  "created_at": "2026-04-03T21:00:01Z"
+}
